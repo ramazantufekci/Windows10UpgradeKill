@@ -1,0 +1,7 @@
+C:\Users\ramazan\Documents\SharpDevelop Projects\WindowsAsistanKill\WindowsAsistanKill\bin\Debug\WindowsAsistanKill.exe
+C:\Users\ramazan\Documents\SharpDevelop Projects\WindowsAsistanKill\WindowsAsistanKill\bin\Debug\WindowsAsistanKill.pdb
+C:\Users\ramazan\Documents\SharpDevelop Projects\WindowsAsistanKill\WindowsAsistanKill\obj\Debug\WindowsAsistanKill.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Documents\SharpDevelop Projects\WindowsAsistanKill\WindowsAsistanKill\obj\Debug\WindowsAsistanKill.NotificationIcon.resources
+C:\Users\ramazan\Documents\SharpDevelop Projects\WindowsAsistanKill\WindowsAsistanKill\obj\Debug\WindowsAsistanKill.csproj.GenerateResource.Cache
+C:\Users\ramazan\Documents\SharpDevelop Projects\WindowsAsistanKill\WindowsAsistanKill\obj\Debug\WindowsAsistanKill.exe
+C:\Users\ramazan\Documents\SharpDevelop Projects\WindowsAsistanKill\WindowsAsistanKill\obj\Debug\WindowsAsistanKill.pdb
